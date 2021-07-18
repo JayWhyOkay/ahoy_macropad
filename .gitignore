@@ -1,5 +1,7 @@
 ## AutoCAD Ignores
 *.baks
+*.dwl
+*.dwl2
 
 ## Kicad Ignores
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/

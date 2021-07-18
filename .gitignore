@@ -1,3 +1,7 @@
+## AutoCAD Ignores
+*.baks
+
+## Kicad Ignores
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
@@ -21,6 +25,6 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
+# Model/Symbol files
+ahoy_pcb/ahoy_pcb-backups/
+ahoy_pcb/AcheronLibrary/

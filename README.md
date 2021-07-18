@@ -1,2 +1,2 @@
-# ahoy_macropad
+# Ahoy 
 Numpad with macropad column (codename: Ahoy!)

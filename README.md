@@ -1,7 +1,6 @@
-# Ahoy
+# Ahoy -- XT Macropad
 
-![3D Model Example](doc/full_assembly_model.png)
-Actual picture coming soon 
+![Complete Project](doc/complete_model.jpg)
 
 Ahoy is a simple but functional macropad designed for people who need both a numpad and a macro column for work/productivity. The features include:
 

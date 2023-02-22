@@ -23,12 +23,12 @@ To replicate the PCB and the case, the guide can be found below:
 ## Project Status
 - [x] Design PCB
 - [x] Design Case
-- [ ] Order Prototypes
-- [ ] Create bootloader
-- [ ] Create QMK/VIA firmware
-- [ ] Revise prototypes
+- [x] Order Prototypes
+- [x] Create bootloader
+- [x] Create QMK/VIA firmware
+- [x] Revise prototypes
 ### Todo List
-- [ ] Revise LED cutouts on acrylic case 
+- [x] Revise LED cutouts on acrylic case 
 - [ ] \(Optional) add art/silkscreen
 - [ ] Clear @todo 's 
 ## Licensing 

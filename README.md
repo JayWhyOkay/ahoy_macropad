@@ -30,6 +30,7 @@ To replicate the PCB and the case, the guide can be found below:
 ### Todo List
 - [x] Revise LED cutouts on acrylic case 
 - [ ] \(Optional) add art/silkscreen
-- [ ] Clear @todo 's 
+- [ ] Clear @todo 's
+- [ ] Update to modern QMK standards!
 ## Licensing 
 The following project was built on Gondolindrim's [Acheron Project](https://github.com/AcheronProject) and ai03's [PCB guide](https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide) and [design files](https://github.com/ai03-2725). As such, the licensing will follow their licensing arrangement on top of this project's licensing, which can be found [here](LICENSE).
